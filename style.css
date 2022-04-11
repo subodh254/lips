@@ -1,0 +1,21 @@
+h1{
+    font-size: 25px !important;
+
+}
+.btn-primary:hover{
+    background-color: cyan;
+
+    font-size: 50px !important;
+    font-family: sans-serif;
+}
+
+canvas{
+    border-color: black;
+    background-color: gold;
+    
+
+}
+body{
+    background-image: url("Av.png");
+    background-size: contain;
+}
